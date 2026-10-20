@@ -42,6 +42,8 @@ export const constants = {
     farPlane: 1000,
 };
 
+console.log(constants);
+
 // =================================
 
 function evalShaderRaw(raw: string) {
