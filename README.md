@@ -12,7 +12,7 @@ WebGPU Forward+ and Clustered Deferred Shading
 
 ### Demo Video/GIF
 
-![30 second GIF demo](images/30_second_gif.gif)
+![30 second GIF demo](https://drive.google.com/file/d/1XZjsKwuM5vXXXF4cN2VMskvZgMpcgW5j/view?usp=sharing)
 
 ### Overview
 
